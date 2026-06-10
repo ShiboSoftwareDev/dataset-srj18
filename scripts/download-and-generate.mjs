@@ -133,8 +133,6 @@ const roundJson = (value) => {
   return value
 }
 
-const stripPcbTracesFromCircuitJson = (circuitJson) =>
-  circuitJson.filter((element) => element.type !== "pcb_trace")
 
 const fetchText = async (url) => {
   const response = await fetch(url, { headers: { "user-agent": "dataset-srj18-generator" } })
@@ -256,9 +254,8 @@ for (const [index, board] of boards.entries()) {
   converter.addFile(fileName, pcbText)
   converter.runUntilFinished()
 
-  const circuitJson = stripPcbTracesFromCircuitJson(
-    roundJson(converter.getOutput()),
-  )
+  const circuitJson =converter.getOutput()
+  
   writeFileSync(join(circuitJsonDir, `${sampleName}-${board.id}.json`), `${JSON.stringify(circuitJson, null, 2)}\n`)
 
   const simpleRouteResult = getSimpleRouteJsonFromCircuitJson({ circuitJson })
