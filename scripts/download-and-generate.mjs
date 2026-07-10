@@ -258,7 +258,7 @@ for (const [index, board] of boards.entries()) {
   
   writeFileSync(join(circuitJsonDir, `${sampleName}-${board.id}.json`), `${JSON.stringify(circuitJson, null, 2)}\n`)
 
-  const simpleRouteResult = getSimpleRouteJsonFromCircuitJson({ circuitJson })
+  const simpleRouteResult = getSimpleRouteJsonFromCircuitJson({ circuitJson, ignoreExistingTopLevelPcbRouteState: true })
   const simpleRouteJson = roundJson(simpleRouteResult.simpleRouteJson ?? simpleRouteResult)
   simpleRouteJson.id = sampleName
   simpleRouteJson.sourceCircuitJson = `circuit-json/${sampleName}-${board.id}.json`

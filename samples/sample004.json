@@ -6853,716 +6853,14 @@
       "width": 1.651,
       "height": 1.651,
       "connectedTo": []
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -5.89,
-        "y": 4.11
-      },
-      "connectedTo": [
-        "pcb_via_0"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 12.7,
-        "y": -4.7498
-      },
-      "connectedTo": [
-        "pcb_via_1"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -20.6511,
-        "y": 1.5036
-      },
-      "connectedTo": [
-        "pcb_via_2"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 6.604,
-        "y": -3.0988
-      },
-      "connectedTo": [
-        "pcb_via_3"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -18.8976,
-        "y": -6.1722
-      },
-      "connectedTo": [
-        "pcb_via_4"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -7.44,
-        "y": 0.21
-      },
-      "connectedTo": [
-        "pcb_via_5"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -6.09,
-        "y": 1.61
-      },
-      "connectedTo": [
-        "pcb_via_6"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 18.2372,
-        "y": -4.4196
-      },
-      "connectedTo": [
-        "pcb_via_7"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 4.953,
-        "y": 3.9116
-      },
-      "connectedTo": [
-        "pcb_via_8"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -16.59,
-        "y": -5.89
-      },
-      "connectedTo": [
-        "pcb_via_9"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -18.796,
-        "y": 0.254
-      },
-      "connectedTo": [
-        "pcb_via_10"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 11.684,
-        "y": 3.8862
-      },
-      "connectedTo": [
-        "pcb_via_11"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -11.09,
-        "y": 1.86
-      },
-      "connectedTo": [
-        "pcb_via_12"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 16.256,
-        "y": -1.3716
-      },
-      "connectedTo": [
-        "pcb_via_13"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -3.39,
-        "y": 4.11
-      },
-      "connectedTo": [
-        "pcb_via_14"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 10.668,
-        "y": -4.4958
-      },
-      "connectedTo": [
-        "pcb_via_15"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 2.6924,
-        "y": 0.6096
-      },
-      "connectedTo": [
-        "pcb_via_16"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -18.5514,
-        "y": 5.4356
-      },
-      "connectedTo": [
-        "pcb_via_17"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -20.574,
-        "y": -2.159
-      },
-      "connectedTo": [
-        "pcb_via_18"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 9.652,
-        "y": 3.81
-      },
-      "connectedTo": [
-        "pcb_via_19"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -0.7874,
-        "y": -4.1656
-      },
-      "connectedTo": [
-        "pcb_via_20"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 3.937,
-        "y": -5.08
-      },
-      "connectedTo": [
-        "pcb_via_21"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -9.99,
-        "y": -1.69
-      },
-      "connectedTo": [
-        "pcb_via_22"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -3.39,
-        "y": 2.31
-      },
-      "connectedTo": [
-        "pcb_via_23"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 4.064,
-        "y": -3.81
-      },
-      "connectedTo": [
-        "pcb_via_24"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 11.811,
-        "y": -0.889
-      },
-      "connectedTo": [
-        "pcb_via_25"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -2.89,
-        "y": -4.19
-      },
-      "connectedTo": [
-        "pcb_via_26"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 3.9878,
-        "y": 4.5466
-      },
-      "connectedTo": [
-        "pcb_via_27"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 4.572,
-        "y": 2.8194
-      },
-      "connectedTo": [
-        "pcb_via_28"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 4.6228,
-        "y": -2.54
-      },
-      "connectedTo": [
-        "pcb_via_29"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 5.2578,
-        "y": -3.556
-      },
-      "connectedTo": [
-        "pcb_via_30"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -18.8087,
-        "y": -5.0292
-      },
-      "connectedTo": [
-        "pcb_via_31"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 17.399,
-        "y": 5.842
-      },
-      "connectedTo": [
-        "pcb_via_32"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 3.7338,
-        "y": -0.762
-      },
-      "connectedTo": [
-        "pcb_via_33"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 4.6736,
-        "y": 0
-      },
-      "connectedTo": [
-        "pcb_via_34"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -2.29,
-        "y": 0.11
-      },
-      "connectedTo": [
-        "pcb_via_35"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 3.9624,
-        "y": 0.8636
-      },
-      "connectedTo": [
-        "pcb_via_36"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": 15.0114,
-        "y": 5.0292
-      },
-      "connectedTo": [
-        "pcb_via_37"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -0.59,
-        "y": 1.01
-      },
-      "connectedTo": [
-        "pcb_via_38"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -10.09,
-        "y": 0.31
-      },
-      "connectedTo": [
-        "pcb_via_39"
-      ],
-      "width": 0.9064,
-      "height": 0.9064
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -12.5476,
-        "y": -5.842
-      },
-      "connectedTo": [
-        "pcb_via_40"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -9.8552,
-        "y": -5.461
-      },
-      "connectedTo": [
-        "pcb_via_41"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -12.192,
-        "y": -0.762
-      },
-      "connectedTo": [
-        "pcb_via_42"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
-    },
-    {
-      "type": "rect",
-      "layers": [
-        "top",
-        "bottom"
-      ],
-      "center": {
-        "x": -12.6238,
-        "y": 0.381
-      },
-      "connectedTo": [
-        "pcb_via_43"
-      ],
-      "width": 0.8128,
-      "height": 0.8128
     }
   ],
   "connections": [
     {
       "name": "source_trace_0",
       "source_trace_id": "source_trace_0",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -12.7,
@@ -7583,6 +6881,8 @@
     {
       "name": "source_trace_1",
       "source_trace_id": "source_trace_1",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -12.7,
@@ -7603,6 +6903,8 @@
     {
       "name": "source_trace_2",
       "source_trace_id": "source_trace_2",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -7623,6 +6925,8 @@
     {
       "name": "source_trace_3",
       "source_trace_id": "source_trace_3",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -16.5561,
@@ -7643,6 +6947,8 @@
     {
       "name": "source_trace_4",
       "source_trace_id": "source_trace_4",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.842097,
@@ -7663,6 +6969,8 @@
     {
       "name": "source_trace_5",
       "source_trace_id": "source_trace_5",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -0.7366,
@@ -7683,6 +6991,8 @@
     {
       "name": "source_trace_6",
       "source_trace_id": "source_trace_6",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 10.16,
@@ -7703,6 +7013,8 @@
     {
       "name": "source_trace_7",
       "source_trace_id": "source_trace_7",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -7723,6 +7035,8 @@
     {
       "name": "source_trace_8",
       "source_trace_id": "source_trace_8",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -19.05,
@@ -7743,6 +7057,8 @@
     {
       "name": "source_trace_9",
       "source_trace_id": "source_trace_9",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 8.9278,
@@ -7763,6 +7079,8 @@
     {
       "name": "source_trace_10",
       "source_trace_id": "source_trace_10",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 8.2781,
@@ -7783,6 +7101,8 @@
     {
       "name": "source_trace_11",
       "source_trace_id": "source_trace_11",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 8.2781,
@@ -7803,6 +7123,8 @@
     {
       "name": "source_trace_12",
       "source_trace_id": "source_trace_12",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 10.16,
@@ -7823,6 +7145,8 @@
     {
       "name": "source_trace_13",
       "source_trace_id": "source_trace_13",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -2.5022,
@@ -7843,6 +7167,8 @@
     {
       "name": "source_trace_14",
       "source_trace_id": "source_trace_14",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -4.195651,
@@ -7863,6 +7189,8 @@
     {
       "name": "source_trace_15",
       "source_trace_id": "source_trace_15",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.703456,
@@ -7883,6 +7211,8 @@
     {
       "name": "source_trace_16",
       "source_trace_id": "source_trace_16",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 9.9784,
@@ -7903,6 +7233,8 @@
     {
       "name": "source_trace_17",
       "source_trace_id": "source_trace_17",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 8.8268,
@@ -7923,6 +7255,8 @@
     {
       "name": "source_trace_18",
       "source_trace_id": "source_trace_18",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 8.8268,
@@ -7943,6 +7277,8 @@
     {
       "name": "source_trace_19",
       "source_trace_id": "source_trace_19",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 17.6829,
@@ -7963,6 +7299,8 @@
     {
       "name": "source_trace_20",
       "source_trace_id": "source_trace_20",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.901,
@@ -7983,6 +7321,8 @@
     {
       "name": "source_trace_21",
       "source_trace_id": "source_trace_21",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -12.151,
@@ -8003,6 +7343,8 @@
     {
       "name": "source_trace_22",
       "source_trace_id": "source_trace_22",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 14.707,
@@ -8023,6 +7365,8 @@
     {
       "name": "source_trace_23",
       "source_trace_id": "source_trace_23",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 10.16,
@@ -8043,6 +7387,8 @@
     {
       "name": "source_trace_24",
       "source_trace_id": "source_trace_24",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 7.76,
@@ -8063,6 +7409,8 @@
     {
       "name": "source_trace_25",
       "source_trace_id": "source_trace_25",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 12.7,
@@ -8083,6 +7431,8 @@
     {
       "name": "source_trace_26",
       "source_trace_id": "source_trace_26",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 12.7,
@@ -8103,6 +7453,8 @@
     {
       "name": "source_trace_27",
       "source_trace_id": "source_trace_27",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 2.732,
@@ -8123,6 +7475,8 @@
     {
       "name": "source_trace_28",
       "source_trace_id": "source_trace_28",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 2.921,
@@ -8143,6 +7497,8 @@
     {
       "name": "source_trace_29",
       "source_trace_id": "source_trace_29",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -4.195651,
@@ -8163,6 +7519,8 @@
     {
       "name": "source_trace_30",
       "source_trace_id": "source_trace_30",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 20.2229,
@@ -8183,6 +7541,8 @@
     {
       "name": "source_trace_31",
       "source_trace_id": "source_trace_31",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.601,
@@ -8203,6 +7563,8 @@
     {
       "name": "source_trace_32",
       "source_trace_id": "source_trace_32",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -14.101,
@@ -8223,6 +7585,8 @@
     {
       "name": "source_trace_33",
       "source_trace_id": "source_trace_33",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.24,
@@ -8243,6 +7607,8 @@
     {
       "name": "source_trace_34",
       "source_trace_id": "source_trace_34",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4031,
@@ -8263,6 +7629,8 @@
     {
       "name": "source_trace_35",
       "source_trace_id": "source_trace_35",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4031,
@@ -8283,6 +7651,8 @@
     {
       "name": "source_trace_36",
       "source_trace_id": "source_trace_36",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4285,
@@ -8303,6 +7673,8 @@
     {
       "name": "source_trace_37",
       "source_trace_id": "source_trace_37",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4285,
@@ -8323,6 +7695,8 @@
     {
       "name": "source_trace_38",
       "source_trace_id": "source_trace_38",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -18.7197,
@@ -8343,6 +7717,8 @@
     {
       "name": "source_trace_39",
       "source_trace_id": "source_trace_39",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -8363,6 +7739,8 @@
     {
       "name": "source_trace_40",
       "source_trace_id": "source_trace_40",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.08,
@@ -8383,6 +7761,8 @@
     {
       "name": "source_trace_41",
       "source_trace_id": "source_trace_41",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 0,
@@ -8403,6 +7783,8 @@
     {
       "name": "source_trace_42",
       "source_trace_id": "source_trace_42",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -2.54,
@@ -8423,6 +7805,8 @@
     {
       "name": "source_trace_43",
       "source_trace_id": "source_trace_43",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.62,
@@ -8443,6 +7827,8 @@
     {
       "name": "source_trace_44",
       "source_trace_id": "source_trace_44",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 5.08,
@@ -8463,6 +7849,8 @@
     {
       "name": "source_trace_45",
       "source_trace_id": "source_trace_45",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -12.7,
@@ -8483,6 +7871,8 @@
     {
       "name": "source_trace_46",
       "source_trace_id": "source_trace_46",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.842097,
@@ -8503,6 +7893,8 @@
     {
       "name": "source_trace_47",
       "source_trace_id": "source_trace_47",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 15.24,
@@ -8523,6 +7915,8 @@
     {
       "name": "source_trace_48",
       "source_trace_id": "source_trace_48",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -10.16,
@@ -8543,6 +7937,8 @@
     {
       "name": "source_trace_49",
       "source_trace_id": "source_trace_49",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.488544,
@@ -8563,6 +7959,8 @@
     {
       "name": "source_trace_50",
       "source_trace_id": "source_trace_50",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 17.78,
@@ -8583,6 +7981,8 @@
     {
       "name": "source_trace_51",
       "source_trace_id": "source_trace_51",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.488544,
@@ -8603,6 +8003,8 @@
     {
       "name": "source_trace_52",
       "source_trace_id": "source_trace_52",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.703456,
@@ -8623,6 +8025,8 @@
     {
       "name": "source_trace_53",
       "source_trace_id": "source_trace_53",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.703456,
@@ -8643,6 +8047,8 @@
     {
       "name": "source_trace_54",
       "source_trace_id": "source_trace_54",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 7.62,
@@ -8663,6 +8069,8 @@
     {
       "name": "source_trace_55",
       "source_trace_id": "source_trace_55",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -17.78,
@@ -8683,6 +8091,8 @@
     {
       "name": "source_trace_56",
       "source_trace_id": "source_trace_56",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -9.05701,
@@ -8703,6 +8113,8 @@
     {
       "name": "source_trace_57",
       "source_trace_id": "source_trace_57",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.256311,
@@ -8723,6 +8135,8 @@
     {
       "name": "source_trace_58",
       "source_trace_id": "source_trace_58",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -17.78,
@@ -8743,6 +8157,8 @@
     {
       "name": "source_trace_59",
       "source_trace_id": "source_trace_59",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 20.2229,
@@ -8763,6 +8179,8 @@
     {
       "name": "source_trace_60",
       "source_trace_id": "source_trace_60",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.349903,
@@ -8783,6 +8201,8 @@
     {
       "name": "source_trace_61",
       "source_trace_id": "source_trace_61",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -10.16,
@@ -8803,6 +8223,8 @@
     {
       "name": "source_trace_62",
       "source_trace_id": "source_trace_62",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 2.54,
@@ -8823,6 +8245,8 @@
     {
       "name": "source_trace_63",
       "source_trace_id": "source_trace_63",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -6.582136,
@@ -8843,6 +8267,8 @@
     {
       "name": "source_trace_64",
       "source_trace_id": "source_trace_64",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.08,
@@ -8863,6 +8289,8 @@
     {
       "name": "source_trace_65",
       "source_trace_id": "source_trace_65",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 0,
@@ -8883,6 +8311,8 @@
     {
       "name": "source_trace_66",
       "source_trace_id": "source_trace_66",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 14.707,
@@ -8903,6 +8333,8 @@
     {
       "name": "source_trace_67",
       "source_trace_id": "source_trace_67",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.289243,
@@ -8923,6 +8355,8 @@
     {
       "name": "source_trace_68",
       "source_trace_id": "source_trace_68",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -8943,6 +8377,8 @@
     {
       "name": "source_trace_69",
       "source_trace_id": "source_trace_69",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -8963,6 +8399,8 @@
     {
       "name": "source_trace_70",
       "source_trace_id": "source_trace_70",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -8983,6 +8421,8 @@
     {
       "name": "source_trace_71",
       "source_trace_id": "source_trace_71",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -19.812,
@@ -9003,6 +8443,8 @@
     {
       "name": "source_trace_72",
       "source_trace_id": "source_trace_72",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -9023,6 +8465,8 @@
     {
       "name": "source_trace_73",
       "source_trace_id": "source_trace_73",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -9043,6 +8487,8 @@
     {
       "name": "source_trace_74",
       "source_trace_id": "source_trace_74",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -19.812,
@@ -9063,6 +8509,8 @@
     {
       "name": "source_trace_75",
       "source_trace_id": "source_trace_75",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -9083,6 +8531,8 @@
     {
       "name": "source_trace_76",
       "source_trace_id": "source_trace_76",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -9103,6 +8553,8 @@
     {
       "name": "source_trace_77",
       "source_trace_id": "source_trace_77",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -6.951,
@@ -9123,6 +8575,8 @@
     {
       "name": "source_trace_78",
       "source_trace_id": "source_trace_78",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -9143,6 +8597,8 @@
     {
       "name": "source_trace_79",
       "source_trace_id": "source_trace_79",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -9163,6 +8619,8 @@
     {
       "name": "source_trace_80",
       "source_trace_id": "source_trace_80",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.609864,
@@ -9183,6 +8641,8 @@
     {
       "name": "source_trace_81",
       "source_trace_id": "source_trace_81",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.256311,
@@ -9202,6 +8662,8 @@
     },
     {
       "name": "source_net_0",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.13499,
@@ -9221,6 +8683,8 @@
     },
     {
       "name": "source_net_1",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.488544,
@@ -9240,6 +8704,8 @@
     },
     {
       "name": "source_net_2",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.842097,
@@ -9322,6 +8788,8 @@
     },
     {
       "name": "source_net_3",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 8.2781,
@@ -9446,6 +8914,8 @@
     },
     {
       "name": "source_net_4",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.256311,
@@ -9465,6 +8935,8 @@
     },
     {
       "name": "source_net_5",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.609864,
@@ -9484,6 +8956,8 @@
     },
     {
       "name": "source_net_6",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -6.582136,
@@ -9503,6 +8977,8 @@
     },
     {
       "name": "source_net_7",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -6.935689,
@@ -9522,6 +8998,8 @@
     },
     {
       "name": "source_net_8",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.289243,
@@ -9541,6 +9019,8 @@
     },
     {
       "name": "source_net_9",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.642796,
@@ -9560,6 +9040,8 @@
     },
     {
       "name": "source_net_10",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.996349,
@@ -9579,6 +9061,8 @@
     },
     {
       "name": "source_net_11",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.349903,
@@ -9598,6 +9082,8 @@
     },
     {
       "name": "source_net_12",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.703456,
@@ -9624,6 +9110,8 @@
     },
     {
       "name": "source_net_13",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -9.05701,
@@ -9650,6 +9138,8 @@
     },
     {
       "name": "source_net_14",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -9.05701,
@@ -9676,6 +9166,8 @@
     },
     {
       "name": "source_net_15",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -8.349903,
@@ -9695,6 +9187,8 @@
     },
     {
       "name": "source_net_16",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.996349,
@@ -9721,6 +9215,8 @@
     },
     {
       "name": "source_net_17",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -7.289243,
@@ -9740,6 +9236,8 @@
     },
     {
       "name": "source_net_18",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -6.935689,
@@ -9759,6 +9257,8 @@
     },
     {
       "name": "source_net_19",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -6.582136,
@@ -9778,6 +9278,8 @@
     },
     {
       "name": "source_net_20",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.609864,
@@ -9797,6 +9299,8 @@
     },
     {
       "name": "source_net_21",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.256311,
@@ -9816,6 +9320,8 @@
     },
     {
       "name": "source_net_22",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -4.902757,
@@ -9835,6 +9341,8 @@
     },
     {
       "name": "source_net_23",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -4.549204,
@@ -9854,6 +9362,8 @@
     },
     {
       "name": "source_net_24",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 2.732,
@@ -9908,6 +9418,8 @@
     },
     {
       "name": "source_net_25",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.842097,
@@ -9934,6 +9446,8 @@
     },
     {
       "name": "source_net_26",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.488544,
@@ -9960,6 +9474,8 @@
     },
     {
       "name": "source_net_27",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -3.13499,
@@ -9979,6 +9495,8 @@
     },
     {
       "name": "source_net_28",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -13.9011,
@@ -9998,6 +9516,8 @@
     },
     {
       "name": "source_net_29",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4285,
@@ -10017,6 +9537,8 @@
     },
     {
       "name": "source_net_30",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4031,
@@ -10036,6 +9558,8 @@
     },
     {
       "name": "source_net_31",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -10062,6 +9586,8 @@
     },
     {
       "name": "source_net_32",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -10095,6 +9621,8 @@
     },
     {
       "name": "source_net_33",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -10128,10 +9656,14 @@
     },
     {
       "name": "source_net_34",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_35",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.9811,
@@ -10151,10 +9683,14 @@
     },
     {
       "name": "source_net_36",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_37",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4031,
@@ -10174,6 +9710,8 @@
     },
     {
       "name": "source_net_38",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 6.4285,
@@ -10193,6 +9731,8 @@
     },
     {
       "name": "source_net_39",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -5.5502,
@@ -10212,6 +9752,8 @@
     },
     {
       "name": "source_net_40",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -10231,6 +9773,8 @@
     },
     {
       "name": "source_net_41",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -10250,6 +9794,8 @@
     },
     {
       "name": "source_net_42",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 17.78,
@@ -10269,6 +9815,8 @@
     },
     {
       "name": "source_net_43",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -15.24,
@@ -10295,6 +9843,8 @@
     },
     {
       "name": "source_net_44",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": -19.05,
@@ -10321,6 +9871,8 @@
     },
     {
       "name": "source_net_45",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -10340,6 +9892,8 @@
     },
     {
       "name": "source_net_46",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": [
         {
           "x": 1.332,
@@ -10359,54 +9913,80 @@
     },
     {
       "name": "source_net_47",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_48",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_49",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_50",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_51",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_52",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_53",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_54",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_55",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_56",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_57",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_58",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     },
     {
       "name": "source_net_59",
+      "nominalTraceWidth": 0.1,
+      "width": 0.1,
       "pointsToConnect": []
     }
   ],

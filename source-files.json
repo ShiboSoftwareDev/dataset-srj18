@@ -145,7 +145,7 @@
     "rawUrl": "https://raw.githubusercontent.com/antmicro/gmsl-serializer/main/gmsl-serializer.kicad_pcb",
     "warnings": [],
     "stats": {
-      "pads": 278,
+      "pads": 280,
       "components": 118,
       "traces": 335,
       "vias": 206,
@@ -196,7 +196,7 @@
     "rawUrl": "https://raw.githubusercontent.com/antmicro/oculink-pcie-adapter/main/oculink-to-pcie-adapter.kicad_pcb",
     "warnings": [],
     "stats": {
-      "pads": 710,
+      "pads": 714,
       "components": 165,
       "traces": 687,
       "vias": 583,
@@ -264,7 +264,7 @@
     "rawUrl": "https://raw.githubusercontent.com/antmicro/usb-c-power-adapter/main/usb-c-power-adapter.kicad_pcb",
     "warnings": [],
     "stats": {
-      "pads": 343,
+      "pads": 344,
       "components": 124,
       "traces": 317,
       "vias": 229,
